@@ -4,13 +4,20 @@
   <img src="https://github.com/thaistsu/thaistsu/blob/main/Img.jpg?raw=true" alt="Pixel art de Thais Mendes" width="700"/>
 </div>
 
-## 😆 Sobre mim
+## Sobre mim
 
-👨‍🎓 Sou estudante de Engenharia Elétrica no IFG e vejo a análise de dados como uma ferramenta poderosa para transformar nosso entendimento do mundo.
+Olá, pessoal! Eu sou a Thais,
 
-📊 Trabalho para transformar dados em histórias que nos ajudam a prever tendências e tomar decisões mais inteligentes. Tenho experiência na parte de distribuição de energia e segurança do trabalho, onde usei dados para melhorar processos e criar soluções eficientes.
+• 2+ anos de experiência em análise de dados e implementação de pipelines ETL, transformo dados complexos em insights estratégicos, promovendo eficiência e redução de custos.
+• Sou especialista em ferramentas como Power BI, Python, SQL, Power Automate, PowerApps, Excel e Spotfire, entregando soluções escaláveis e impactantes para decisões empresariais.
+• Tenho sólida experiência na otimização de fluxos de trabalho e automação de processos, garantindo a integração eficiente de dados de diversas fontes.
+• Ofereço suporte essencial à tomada de decisões com relatórios e análises orientadas por dados, ajudando a embasar decisões estratégicas.
+• Com habilidades de comunicação eficazes, facilito o diálogo entre equipes técnicas e não técnicas, assegurando a entrega clara e precisa das informações para maximizar resultados.
+• Desenvolvo apresentações executivas impactantes, utilizando dados para fortalecer argumentos estratégicos e melhorar o desempenho organizacional.
+• Sou uma profissional comprometida, sempre em busca de aprimorar minhas habilidades técnicas e interpessoais, com adaptabilidade rápida a novas tecnologias e metodologias ágeis (Scrum, Kanban).
 
-🎯 Sou curiosa e entusiasta em aprender sobre machine learning, sempre buscando expandir meus conhecimentos a cada projeto. Trabalhar em equipe e resolver problemas complexos me motiva. Acredito que, com a análise de dados, podemos antecipar o futuro e criar um impacto positivo. Estou sempre em busca de desenvolver minhas habilidades e contribuir para projetos inovadores que realmente façam a diferença.
+-- Principais Habilidades --
+Python • SQL • Power BI • VBA • DAX/M• SharePoint • Power Automate • Spotfire • ETL • Automação de Processos • Web Scraping • Excel • Análise Preditiva • Visualização de Dados • PowerApps • Monitoramento de Indicadores • Gestão de Projetos
 
 
 [![E-mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thaismendess@gmail.com)
