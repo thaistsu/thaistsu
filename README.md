@@ -6,8 +6,6 @@
 
 ## Sobre mim
 
-Olá, pessoal! Eu sou a Thais,
-
 • 2+ anos de experiência em análise de dados e implementação de pipelines ETL, transformo dados complexos em insights estratégicos, promovendo eficiência e redução de custos.
 • Sou especialista em ferramentas como Power BI, Python, SQL, Power Automate, PowerApps, Excel e Spotfire, entregando soluções escaláveis e impactantes para decisões empresariais.
 • Tenho sólida experiência na otimização de fluxos de trabalho e automação de processos, garantindo a integração eficiente de dados de diversas fontes.
